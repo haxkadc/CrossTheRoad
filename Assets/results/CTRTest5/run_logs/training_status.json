@@ -1,0 +1,23 @@
+{
+    "CrossTheRoad": {
+        "checkpoints": [
+            {
+                "steps": 896,
+                "file_path": "results\\CTRTest5\\CrossTheRoad\\CrossTheRoad-896.nn",
+                "reward": null,
+                "creation_time": 1637853455.8321555
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 896,
+            "file_path": "results\\CTRTest5\\CrossTheRoad.nn",
+            "reward": null,
+            "creation_time": 1637853455.8321555
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.20.0",
+        "tensorflow_version": "2.7.0"
+    }
+}
