@@ -14,5 +14,4 @@ The aim of the game is to cross the various lanes of the road in the shortest ti
 ##
 ## Demo
 
-https://github.com/haxkadc/CrossTheRoad/assets/134702013/c266a00f-0ebe-44af-9d90-ad908f0559a0
-
+![Demo](https://github.com/haxkadc/CrossTheRoad/assets/134702013/a26495c6-fa98-4538-920b-ec743b62a108)
